@@ -15,13 +15,13 @@
 ## 🍞 Core Service
 
 <p float="left">
-<image width=33% src="https://user-images.githubusercontent.com/76844556/168022804-1b3722c8-d7ca-48f8-81c8-ff178610d4f5.png">
-<image width=33% src="https://user-images.githubusercontent.com/76844556/168022793-794c37c6-6e03-4418-a4fa-53885c6a9ce9.png">
-<image width=33% src="https://user-images.githubusercontent.com/76844556/168022777-a56d8304-1e3a-4cf8-967d-7ef61f6a2ec3.png">
+<image width=30% src="https://user-images.githubusercontent.com/76844556/168022804-1b3722c8-d7ca-48f8-81c8-ff178610d4f5.png">
+<image width=30% src="https://user-images.githubusercontent.com/76844556/168022793-794c37c6-6e03-4418-a4fa-53885c6a9ce9.png">
+<image width=30% src="https://user-images.githubusercontent.com/76844556/168022777-a56d8304-1e3a-4cf8-967d-7ef61f6a2ec3.png">
 </p>
 <p float="left">
-<image width=33% src="https://user-images.githubusercontent.com/76844556/168022696-e6fc9d6b-74f0-4a19-8c60-ac5a6ffe8a8e.png">
-<image width=33% src="https://user-images.githubusercontent.com/76844556/168022672-4f089eb8-0ab7-42f1-81e2-3787843466e2.png">
+<image width=30% src="https://user-images.githubusercontent.com/76844556/168022696-e6fc9d6b-74f0-4a19-8c60-ac5a6ffe8a8e.png">
+<image width=30% src="https://user-images.githubusercontent.com/76844556/168022672-4f089eb8-0ab7-42f1-81e2-3787843466e2.png">
 </p>
 
     
